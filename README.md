@@ -2,7 +2,7 @@
 
 A Calculator App made with Flutter framework.
 
-![Screenshot](screenshot\Calculator_SC.png?raw=true "Calculator")
+![Screenshot](screenshot/Calculator_SC.png?raw=true "Calculator")
 
 
 
